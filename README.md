@@ -26,9 +26,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jcamilorivera26&locale=es&mode=weekly&theme=highcontrast&hide_border=false&border_radius=3" height="180" alt="streak graph"  />
-</div>
 
 
 
