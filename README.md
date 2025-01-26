@@ -16,12 +16,6 @@
 
 
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.gifer.com/Vkee.gif"  />
-</div>
-
 
 
 <br clear="both">
@@ -82,6 +76,13 @@
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
 </div>
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/Vkee.gif"  />
+</div>
+
 
 
 
