@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center">Hola,👋! Mi Nombre es Camilo Rivera, soy programador "FullStack" Colombiano y próximo número 1 Mundial!</h1>
+<h1 align="center">Hola,👋! Mi Nombre es Camilo Rivera, soy programador "FullStack" Colombiano</h1>
 
 
 
@@ -91,4 +91,5 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcamilorivera26&radius=16&theme=high-contrast&area=true&order=5&custom_title=Estadisticas&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
+
 
